@@ -1,0 +1,14 @@
+{
+  "name": "BasicTranslations",
+  "version": "1.0.0",
+  "description": "Gives you basic important translations in various languages",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Herminio Garcia",
+  "license": "ISC"
+}
+
+
