@@ -89,7 +89,7 @@ var newSessionHandler = {
     }
 };
 
-
+// Once the user has agreed to continue, this is how the program will ask for language.
 var startTranslationHandlers = Alexa.CreateStateHandler(states.STARTMODE, {
     'AMAZON.YesIntent': function () {
         // set state to asking for Language
